@@ -4,3 +4,8 @@
 
 > Ez egy idézet.
 >> Beágyazott idézet.
+
+**félkövér**
+*félkövér* vagy _dőlt_
+***félkövér és dőlt***
+~~áthúzott~~
